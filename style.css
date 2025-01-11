@@ -1,0 +1,15 @@
+.barra{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-lado-derecho{
+    display: flex;
+    flex-direction: row;
+}
+.log-out-item{
+    color: red;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
